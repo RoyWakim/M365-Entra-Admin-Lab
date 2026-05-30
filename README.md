@@ -23,8 +23,8 @@ Full 47-slide walkthrough available in the file above.
 
 ## Related Projects
 This lab is Part 3 of my homelab series:
-- Part 1 — Active Directory Homelab: https://github.com/YourUsername/AD-Helpdesk-Homelab
-- Part 2 — Helpdesk Ticketing Lab: https://github.com/YourUsername/Helpdesk-Ticketing-Lab
+- Part 1 — Active Directory Homelab: https://github.com/RoyWakim/AD-Helpdesk-Homelab
+- Part 2 — Helpdesk Ticketing Lab: https://github.com/RoyWakim/Helpdesk-Ticketing-Lab
 
 ## Author
 Roy Wakim
